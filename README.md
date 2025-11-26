@@ -1,15 +1,15 @@
 # Minishell
 
-<img src="imgs/minishell_img.png" width="450" />
+<img src="https://cameronnokes.com/images/bash.png" width="450" />
 
 ## 🐚 About the Project
 
-**Minishell** is one of the most challenging and mind-bending projects of the 42 curriculum 🤯🔥  
+**Minishell** is one of the most challenging and mind-bending projects of the 42 curriculum.  
 Its goal: build a fully functional **mini Bash shell**, capable of parsing and executing commands just like a real terminal.
 
 This was by far my **largest and most complex project** so far at 42.  
-I developed it in partnership with **[link]** 👥  
-If you want to check all commits or explore the full development history, the complete project is available here: **[link]**.
+I developed it in partnership with **[João Muñoz](https://github.com/jomunoz42)** 👥  
+If you want to check all commits or explore the full development history, the complete project is available here: **[link](https://github.com/jomunoz42/minishell)**.
 
 ---
 
@@ -57,7 +57,7 @@ If you want to check all commits or explore the full development history, the co
 Clone the repository and compile:
 
 ```bash
-git clone [link]
+git clone git@github.com:PedroLouzada/42-MiniShell.git
 cd minishell
 make
 ```
@@ -101,10 +101,10 @@ minishell$ cat << EOF
 
 ## 💡 Final Thoughts
 
-Minishell was by far the most **intensive, complex, and rewarding** 💥 project I've tackled at 42 so far.  
+Minishell was by far the most **intensive, complex, and rewarding** project I've tackled at 42 so far.  
 It taught me how a shell really works under the hood — from parsing to process management — and pushed my understanding of **systems programming** to a whole new level.
 
-If you're starting Minishell soon… brace yourself 😄  
+If you're starting Minishell soon… brace yourself  
 It’s a wild mix of logic, debugging, and low-level magic ⚙️✨  
 But it's also one of the most satisfying projects you’ll ever complete.
 
